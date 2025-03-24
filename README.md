@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 AI-Powered Cybersecurity Threat Detection System 🚀 </h1>
+<h1 align="center">  AI-Powered Cybersecurity Threat Detection System  </h1>
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blueviolet) ![Streamlit](https://img.shields.io/badge/Streamlit-1.25%2B-brightgreen) ![Groq AI](https://img.shields.io/badge/Groq%20AI-Powered-blue)
 
